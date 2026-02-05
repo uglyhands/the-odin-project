@@ -2,7 +2,7 @@
 
 .impar {
     background-color: #FFC0CB;
-    font-family: Verdana, "Dejavu Sans", sans-serif
+    font-family: Verdana, "Dejavu Sans", sans-serif;
 }
 
 #unico2 {
@@ -10,12 +10,11 @@
     font-size: 36px;
 }
 
-.impar.especial {
+.especial {
     font-size: 24px;
 }
 
 #unico4 {
     background-color: #90ee90;
-    font-size: 24px;
     font-weight: bold;
 }
